@@ -1,0 +1,10 @@
+/Users/williamhutchinson/react_chat_app/backend/target/debug/deps/libicu_normalizer-9ffe6979ace5fc0a.rmeta: /Users/williamhutchinson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.0.0/src/lib.rs /Users/williamhutchinson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.0.0/src/properties.rs /Users/williamhutchinson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.0.0/src/provider.rs /Users/williamhutchinson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.0.0/src/uts46.rs
+
+/Users/williamhutchinson/react_chat_app/backend/target/debug/deps/libicu_normalizer-9ffe6979ace5fc0a.rlib: /Users/williamhutchinson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.0.0/src/lib.rs /Users/williamhutchinson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.0.0/src/properties.rs /Users/williamhutchinson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.0.0/src/provider.rs /Users/williamhutchinson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.0.0/src/uts46.rs
+
+/Users/williamhutchinson/react_chat_app/backend/target/debug/deps/icu_normalizer-9ffe6979ace5fc0a.d: /Users/williamhutchinson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.0.0/src/lib.rs /Users/williamhutchinson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.0.0/src/properties.rs /Users/williamhutchinson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.0.0/src/provider.rs /Users/williamhutchinson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.0.0/src/uts46.rs
+
+/Users/williamhutchinson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.0.0/src/lib.rs:
+/Users/williamhutchinson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.0.0/src/properties.rs:
+/Users/williamhutchinson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.0.0/src/provider.rs:
+/Users/williamhutchinson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.0.0/src/uts46.rs:
